@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customer Page</title>
+
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(135deg, #74ebd5, #9face6);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    /* Top right login & signup */
+    .top-auth {
+      position: absolute;
+      top: 20px;
+      right: 40px;
+    }
+
+    .top-auth a {
+      padding: 10px 18px;
+      margin-left: 10px;
+      background: #0077cc;
+      color: white;
+      border-radius: 6px;
+      font-size: 15px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .top-auth a:hover {
+      background: #005fa3;
+    }
+
+    .container {
+      background: white;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0px 8px 20px rgba(0,0,0,0.2);
+      text-align: center;
+      width: 350px;
+      animation: fadeIn 0.8s ease-in-out;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    p {
+      color: #555;
+      margin-bottom: 20px;
+      font-size: 16px;
+    }
+
+    .option-btn {
+      display: block;
+      width: 100%;
+      padding: 12px 15px;
+      margin: 10px 0;
+      font-size: 16px;
+      background: #f0f0f0;
+      border: 1px solid #666;
+      border-radius: 8px;
+      text-decoration: none;
+      color: #333;
+      transition: 0.3s;
+      cursor: pointer;
+    }
+
+    .option-btn:hover {
+      border-color: #0077cc;
+      background: #e6f3ff;
+      box-shadow: 0 0 8px rgba(0,119,204,0.4);
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Login + Signup at top-right -->
+  <div class="top-auth">
+    <a href="./login.html">Login</a>
+    <a href="./signup.html">Sign Up</a>
+  </div>
+
+  <div class="container">
+    <h1>Welcome!</h1>
+    <p>Please select an option:</p>
+
+    <a href="./customer.html" class="option-btn">Customer</a>
+    <a href="./hotel.html" class="option-btn">Hotel</a>
+  </div>
+
+</body>
+</html>
