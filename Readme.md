@@ -16,38 +16,36 @@ signup.html
 #### images
 * OIP.jpg
 * OIP (1).jpg
-*OIP (2).jpg
-*OIP (3).jpg
-*OIP (4).jpg
-*OIP (5).jpg
+* OIP (2).jpg
+* OIP (3).jpg
+* OIP (4).jpg
+* OIP (5).jpg
 
 ## Features
 #### Home Page
-
-*Gradient UI design
-*Login and Signup buttons
-*Navigation to Customer / Hotel sections
+* Gradient UI design
+* Login and Signup buttons
+* Navigation to Customer / Hotel sections
 
 #### Customer Page
-*Choose between:
-  *Menu
-  *Restaurants
-*Clean animated options
+* Choose between:
+  * Menu
+  * Restaurants
+* Clean animated options
 
 #### Hotel (Chef & Dish Management) Page
-*Chef profiles
-*Add Dish Form:
-  *Dish name
-  *Category
-  *Description
-  *Price
+* Chef profiles
+* Add Dish Form:
+  * Dish name
+  * Category
+  * Description
+  * Price
 
 #### Menu Page
-
-*Popular dish cards
-*Dish images
-*Price tags
-*Order buttons
+* Popular dish cards
+* Dish images
+* Price tags
+* Order buttons
 
 #### Restaurant Selector
 
