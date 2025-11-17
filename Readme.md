@@ -65,9 +65,9 @@ Includes pages for customers, hotel staff, menu viewing, restaurant selection, a
 *No JavaScript or backend included.*
 
 ## Design Highlights
-*Smooth CSS animations
-*Shadowed cards
-*Pastel gradient backgrounds
-*Clean layout
-*Responsive structure
+* Smooth CSS animations
+* Shadowed cards
+* Pastel gradient backgrounds
+* Clean layout
+* Responsive structure
 
