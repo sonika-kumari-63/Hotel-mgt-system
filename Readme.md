@@ -4,6 +4,7 @@ A simple and clean Hotel & Restaurant Management System (Frontend Only) built us
 Includes pages for customers, hotel staff, menu viewing, restaurant selection, and user authentication.
 
 ## Project Structure
+
 Hotel-Mgt-System
 index.html
 customer.html
@@ -12,7 +13,8 @@ menu.html
 restaurant.html
 login.html
 signup.html
-images
+
+#### images
 *OIP.jpg
 *OIP (1).jpg
 *OIP (2).jpg
@@ -21,18 +23,19 @@ images
 *OIP (5).jpg
 
 ## Features
-**Home Page**
+#### Home Page
+
 *Gradient UI design
 *Login and Signup buttons
 *Navigation to Customer / Hotel sections
 
-**Customer Page**
+#### Customer Page
 *Choose between:
   *Menu
   *Restaurants
 *Clean animated options
 
-**Hotel (Chef & Dish Management) Page**
+#### Hotel (Chef & Dish Management) Page
 *Chef profiles
 *Add Dish Form:
   *Dish name
@@ -40,13 +43,15 @@ images
   *Description
   *Price
 
-**Menu Page**
+#### Menu Page
+
 *Popular dish cards
 *Dish images
 *Price tags
 *Order buttons
 
-**Restaurant Selector**
+#### Restaurant Selector
+
 *Choose between:
   *Italian Bistro
   *Indian Spice
