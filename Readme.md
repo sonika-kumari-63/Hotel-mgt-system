@@ -4,7 +4,6 @@ A simple and clean Hotel & Restaurant Management System (Frontend Only) built us
 Includes pages for customers, hotel staff, menu viewing, restaurant selection, and user authentication.
 
 ## Project Structure
-
 Hotel-Mgt-System
 index.html
 customer.html
@@ -15,8 +14,8 @@ login.html
 signup.html
 
 #### images
-*OIP.jpg
-*OIP (1).jpg
+* OIP.jpg
+* OIP (1).jpg
 *OIP (2).jpg
 *OIP (3).jpg
 *OIP (4).jpg
