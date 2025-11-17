@@ -4,14 +4,14 @@ A simple and clean Hotel & Restaurant Management System (Frontend Only) built us
 Includes pages for customers, hotel staff, menu viewing, restaurant selection, and user authentication.
 
 ## Project Structure
-Hotel-Mgt-System
-index.html
-customer.html
-hotel.html
-menu.html
-restaurant.html
-login.html
-signup.html
+* Hotel-Mgt-System
+* index.html
+* customer.html
+* hotel.html
+* menu.html
+* restaurant.html
+* login.html
+* signup.html
 
 #### images
 * OIP.jpg
@@ -49,18 +49,18 @@ signup.html
 
 #### Restaurant Selector
 
-*Choose between:
-  *Italian Bistro
-  *Indian Spice
-  *Skyline Bar
+* Choose between:
+  * Italian Bistro
+  * Indian Spice
+  * Skyline Bar
 
 **Login & Signup Pages**
-*Simple responsive forms
-*Styled buttons and fields
+* Simple responsive forms
+* Styled buttons and fields
 
 ## Technologies Used
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 *No JavaScript or backend included.*
 
